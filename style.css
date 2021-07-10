@@ -1,0 +1,8 @@
+:root{
+    height: 0px;
+    border-width: 0px;
+}
+
+.container{
+    height: inherit;
+}

@@ -3,6 +3,11 @@
     border-width: 0px;
 }
 
+body{
+    text-align: justify;
+}
 .container{
-    height: inherit;
+    height: auto;
+    text-align: center;
+
 }
